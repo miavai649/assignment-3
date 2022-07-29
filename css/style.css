@@ -5,3 +5,9 @@
     opacity: 0.5;
     height: 70vh;
 }
+.footer-background{
+    height: 40vh;
+    width: 100%;
+    background-color: black;
+    color: azure;
+}
